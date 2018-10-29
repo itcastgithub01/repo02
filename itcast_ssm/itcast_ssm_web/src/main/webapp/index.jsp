@@ -4,6 +4,6 @@
     <title>首页</title>
 </head>
 <body>
-<<a href="/findAll">查询所有产品</a>
+<a href="/findAll">查询所有产品</a>
 </body>
 </html>
